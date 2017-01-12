@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Juan_Hundred_Seconds_Prototype.unity
+  isLoaded: 1
+  isActive: 1
