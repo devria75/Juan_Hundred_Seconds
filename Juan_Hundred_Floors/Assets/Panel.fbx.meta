@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 22f27af98a1c449b3bc0690136477867
+timeCreated: 1484432831
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Button1
+    100002: Button2
+    100004: Button3
+    100006: Elevator
+    100008: Elevator 1
+    100010: Elevator_Panel
+    100012: ElevatorDoor01
+    100014: ElevatorDoor02
+    100016: ElevatorDoors
+    100018: GroundPlane
+    100020: //RootNode
+    100022: Panel_And_Button
+    100024: Person1
+    100026: Person1_Head
+    100028: Person1_Head 1
+    100030: Person1_Head 2
+    100032: Person1_LeftArm
+    100034: Person1_LeftArm 1
+    100036: Person1_LeftArm 2
+    100038: Person1_LeftLeg
+    100040: Person1_LeftLeg 1
+    100042: Person1_LeftLeg 2
+    100044: Person1_RightArm
+    100046: Person1_RightArm 1
+    100048: Person1_RightArm 2
+    100050: Person1_RightLeg
+    100052: Person1_RightLeg 1
+    100054: Person1_RightLeg 2
+    100056: Person1_Torso
+    100058: Person1_Torso 1
+    100060: Person1_Torso 2
+    100062: Person2
+    100064: Person3
+    400000: Button1
+    400002: Button2
+    400004: Button3
+    400006: Elevator
+    400008: Elevator 1
+    400010: Elevator_Panel
+    400012: ElevatorDoor01
+    400014: ElevatorDoor02
+    400016: ElevatorDoors
+    400018: GroundPlane
+    400020: //RootNode
+    400022: Panel_And_Button
+    400024: Person1
+    400026: Person1_Head
+    400028: Person1_Head 1
+    400030: Person1_Head 2
+    400032: Person1_LeftArm
+    400034: Person1_LeftArm 1
+    400036: Person1_LeftArm 2
+    400038: Person1_LeftLeg
+    400040: Person1_LeftLeg 1
+    400042: Person1_LeftLeg 2
+    400044: Person1_RightArm
+    400046: Person1_RightArm 1
+    400048: Person1_RightArm 2
+    400050: Person1_RightLeg
+    400052: Person1_RightLeg 1
+    400054: Person1_RightLeg 2
+    400056: Person1_Torso
+    400058: Person1_Torso 1
+    400060: Person1_Torso 2
+    400062: Person2
+    400064: Person3
+    2300000: Button1
+    2300002: Button2
+    2300004: Button3
+    2300006: Elevator 1
+    2300008: Elevator_Panel
+    2300010: ElevatorDoor01
+    2300012: ElevatorDoor02
+    2300014: GroundPlane
+    2300016: Person1_Head
+    2300018: Person1_Head 1
+    2300020: Person1_Head 2
+    2300022: Person1_LeftArm
+    2300024: Person1_LeftArm 1
+    2300026: Person1_LeftArm 2
+    2300028: Person1_LeftLeg
+    2300030: Person1_LeftLeg 1
+    2300032: Person1_LeftLeg 2
+    2300034: Person1_RightArm
+    2300036: Person1_RightArm 1
+    2300038: Person1_RightArm 2
+    2300040: Person1_RightLeg
+    2300042: Person1_RightLeg 1
+    2300044: Person1_RightLeg 2
+    2300046: Person1_Torso
+    2300048: Person1_Torso 1
+    2300050: Person1_Torso 2
+    3300000: Button1
+    3300002: Button2
+    3300004: Button3
+    3300006: Elevator 1
+    3300008: Elevator_Panel
+    3300010: ElevatorDoor01
+    3300012: ElevatorDoor02
+    3300014: GroundPlane
+    3300016: Person1_Head
+    3300018: Person1_Head 1
+    3300020: Person1_Head 2
+    3300022: Person1_LeftArm
+    3300024: Person1_LeftArm 1
+    3300026: Person1_LeftArm 2
+    3300028: Person1_LeftLeg
+    3300030: Person1_LeftLeg 1
+    3300032: Person1_LeftLeg 2
+    3300034: Person1_RightArm
+    3300036: Person1_RightArm 1
+    3300038: Person1_RightArm 2
+    3300040: Person1_RightLeg
+    3300042: Person1_RightLeg 1
+    3300044: Person1_RightLeg 2
+    3300046: Person1_Torso
+    3300048: Person1_Torso 1
+    3300050: Person1_Torso 2
+    4300000: Elevator
+    4300002: ElevatorDoor02
+    4300004: ElevatorDoor01
+    4300006: Person1_Head
+    4300008: Person1_Torso
+    4300010: Person1_LeftLeg
+    4300012: Person1_RightLeg
+    4300014: Person1_LeftArm
+    4300016: Person1_RightArm
+    4300018: Person1_Head
+    4300020: Person1_Torso
+    4300022: Person1_LeftLeg
+    4300024: Person1_RightLeg
+    4300026: Person1_LeftArm
+    4300028: Person1_RightArm
+    4300030: Person1_Head
+    4300032: Person1_Torso
+    4300034: Person1_LeftLeg
+    4300036: Person1_RightLeg
+    4300038: Person1_LeftArm
+    4300040: Person1_RightArm
+    4300042: GroundPlane
+    4300044: Elevator_Panel
+    4300046: Button1
+    4300048: Button2
+    4300050: Button3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
