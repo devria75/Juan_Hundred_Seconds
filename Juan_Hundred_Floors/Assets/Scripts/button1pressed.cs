@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.Events;
 
 public class button1pressed : MonoBehaviour {
-	GameObject elevatorLight;
+	public GameObject elevatorLight;
 
 	float randomThreshold;
 	float minThreshold = 0.5f; // min time between flashes
@@ -46,6 +46,7 @@ public class button1pressed : MonoBehaviour {
 
 	IEnumerator FlashingLights(){
 		isFlashing = true;
+		Debug.Log ("Function is go.");
 
 		for (int x = 0; x < randomFlashes; x++) {
 			elevatorLight.GetComponent<Light>().enabled = false;

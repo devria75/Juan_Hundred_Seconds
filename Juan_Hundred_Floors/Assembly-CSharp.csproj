@@ -48,6 +48,9 @@
      <Compile Include="Assets\Scripts\ConvoyPath.cs" />
      <Compile Include="Assets\Scripts\Elevator_Behavior.cs" />
      <Compile Include="Assets\Scripts\Tween_Mover_Easy.cs" />
+     <Compile Include="Assets\Scripts\button1pressed.cs" />
+     <Compile Include="Assets\Scripts\button2pressed.cs" />
+     <Compile Include="Assets\Scripts\button3pressed.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
