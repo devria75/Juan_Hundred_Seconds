@@ -2,14 +2,11 @@
 using System.Collections;
 
 public class button2pressed : MonoBehaviour {
+	public GameObject Elevator;
 
 	// Use this for initialization
-	void Start () {
-	
+	void OnMouseDown() {
+		Elevator.GetComponent<Elevator_Behavior>().Drop();
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
 }
