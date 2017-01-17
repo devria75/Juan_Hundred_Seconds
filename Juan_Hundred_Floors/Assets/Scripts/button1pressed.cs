@@ -4,19 +4,22 @@ using UnityEngine.Events;
 
 public class button1pressed : MonoBehaviour {
 	public GameObject elevatorLight;
+	GameObject wall;
 
 	float randomThreshold;
 	float minThreshold = 0.5f; // min time between flashes
 	float maxThreshold = 3.0f; // max time between flashes
 
 	float timer; //don't touch
-	bool isFlashing; //don't touch
+	public bool isFlashing; //don't touch
 
 	int randomFlashes; //don't touch
 	int minFlashes = 3; //min number of flashes
 	int maxFlashes = 5; //max number of flashes (max is exclusive)
 
 	float timeBetweenFlashes = 0.1f;
+
+
 
 	// Use this for initialization
 	void Start () {
@@ -61,4 +64,5 @@ public class button1pressed : MonoBehaviour {
 
 		isFlashing = false;
 	}
+		
 }

@@ -3,11 +3,13 @@ using System.Collections;
 
 public class ConvoyPath : MonoBehaviour {
 
+	public GameObject button;
+
 	// put the points from unity interface
 	public Transform[] wayPointList;
 
 	public int currentWayPoint = 0; 
-	Transform targetWayPoint;
+	public Transform targetWayPoint;
 
 	public float rotateSpeed = 1f;
 	public float moveSpeed = 4f; 
@@ -41,4 +43,5 @@ public class ConvoyPath : MonoBehaviour {
 			targetWayPoint = wayPointList[currentWayPoint];
 		}
 	} 
+		
 }

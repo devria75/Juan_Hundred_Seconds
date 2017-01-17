@@ -48,6 +48,8 @@
      <Compile Include="Assets\Scripts\ConvoyPath.cs" />
      <Compile Include="Assets\Scripts\Elevator_Behavior.cs" />
      <Compile Include="Assets\Scripts\Tween_Mover_Easy.cs" />
+     <Compile Include="Assets\Scripts\Wall_Movement.cs" />
+     <Compile Include="Assets\Scripts\Wall_Movement2.cs" />
      <Compile Include="Assets\Scripts\button1pressed.cs" />
      <Compile Include="Assets\Scripts\button2pressed.cs" />
      <Compile Include="Assets\Scripts\button3pressed.cs" />
